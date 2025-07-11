@@ -1,4 +1,4 @@
-This project provides a Python script to track the approximate geographical location and service provider of a phone number and visualize it on an interactive map. It leverages the `phonenumbers` library for parsing and basic information, the `opencage` library for precise geocoding, and `folium` for map generation.
+This project provides a Python code to track the approximate geographical location and service provider of a phone number and visualize it on an interactive map. It leverages the `phonenumbers` library for parsing and basic information, the `opencage` library for precise geocoding, and `folium` for map generation.
 
 ## ✨ Features
 
